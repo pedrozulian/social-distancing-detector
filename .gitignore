@@ -3,3 +3,4 @@ notebooks
 *__pycache__
 *.avi
 *.mp4
+yolov3.weights
