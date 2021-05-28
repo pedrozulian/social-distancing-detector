@@ -98,7 +98,7 @@ while True:
         cv2.circle(frame, (cX, cY), 5, color, 1)
     
     # Texto com total de pessoas violando distanciamento social
-    text = "Violação do distanciamento social: {}".format(len(violate))
+    text = "Violacao do distanciamento social: {}".format(len(violate))
     cv2.putText(frame, text, (10, frame.shape[0] - 25), cv2.FONT_HERSHEY_SIMPLEX, 0.85, (0, 0, 255), 3)
 
     # Verifica se o frame de saida deve ser mostrado na tela
