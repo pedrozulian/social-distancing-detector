@@ -1,6 +1,6 @@
 ## Social Distancing Detector
 
-Este é o detector de distânciamento social, que através de imagem indica se duas ou mais pessoas estão violando a distância considerada segura devido à pandemia da COVID-19.
+Este é o detector de distanciamento social, que através de imagem indica se duas ou mais pessoas estão violando a distância considerada segura devido à pandemia da COVID-19.
 
 ### Desenvolvimento
 
